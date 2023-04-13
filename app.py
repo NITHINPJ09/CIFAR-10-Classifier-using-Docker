@@ -28,6 +28,3 @@ def predict():
         label =  label_names[index].capitalize()
         return jsonify(result=label)
     return None
-
-if __name__ == '__main__':
-    app.run(debug=True)
