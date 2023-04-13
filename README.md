@@ -5,7 +5,7 @@ To build the docker image from the dockerfile
 
 sudo docker build -t classifier .
 
-To list the images
+To list the docker images
 ------------------
 
 sudo docker images
