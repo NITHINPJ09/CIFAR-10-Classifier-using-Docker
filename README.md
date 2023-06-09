@@ -38,7 +38,7 @@ sudo docker restart cifar
 To remove the docker container
 ------------------------------
 
-sudo docker remove cifar
+sudo docker rm cifar
 
 To remove the docker image
 --------------------------
